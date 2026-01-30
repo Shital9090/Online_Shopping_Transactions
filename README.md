@@ -1,3 +1,64 @@
+Online_Shopping_Aanalysis
+
+![](https://triprindia.com/cdn/shop/articles/shopping-online-federprivacy.jpg?v=1521026366)
+
+Project Overview 
+Project Name: Online_Shopping_Transactions
+Domain: Business Intelligence / Data Analytics / E-Commerce
+Tools Used: Tableau , Excel (data cleaning & initial exploration)
+Dataset:
+
+1,000 transaction records of an online shopping platform
+Key columns (inferred from your dashboards): Order ID, Order Date, Customer ID, Gender, Product Category (Beauty, Books, Clothing, Electronics, Home & Kitchen, Sports), Total Amount, Payment Mode (UPI, Credit Card, Debit Card, Net Banking, COD), Order Status (Delivered, Pending, Returned, Cancelled), and more.
+
+Project Objective
+To transform raw 1,000-row e-commerce transaction data into actionable business intelligence through interactive dashboards, enabling stakeholders to:
+
+Understand sales performance by category, time, and trends
+Analyze customer behavior, payment preferences, and gender-based spending patterns
+Monitor operational health via order fulfillment and return rates
+Identify top customers and high-value segments for targeted marketing and retention
+
+Key Features & Dashboards Created
+
+Sales Performance & Customer Insights
+Category-wise revenue breakdown (Sports and Beauty leading)
+Monthly sales trend (line chart) showing seasonal peaks (mid-year strong) and year-end dip
+Total revenue: ₹74.8M+ | Total orders: 1,000 | Unique customers: 947
+Helps spot top-performing categories and seasonal opportunities
+
+Order Fulfillment & Payment Behavior
+Order status distribution (~71% Delivered, ~15% Pending, ~6–10% Returned/Cancelled)
+Payment mode usage (UPI slightly leading, closely followed by cards & COD)
+Top 5 high-value customers by revenue
+Average Order Value (AOV) by gender – Females show significantly higher AOV
+Reveals operational efficiency, preferred digital payments, and gender-based targeting potential
+
+
+Business Insights Delivered
+
+Product Strategy: Prioritize Sports, Beauty, and Clothing; revive Electronics & Home & Kitchen in low months
+Marketing: Target female customers with higher AOV via personalized promotions
+Operations: High delivery rate is a strength; focus on reducing pending/returned orders
+Payments: Optimize for UPI experience since it's most popular
+Retention: Engage top 5 customers (high revenue concentration risk/opportunity)
+
+Skills Demonstrated
+
+Data cleaning & transformation
+DAX calculations (total revenue, AOV, monthly trends, top N customers)
+Interactive visualizations (bar, line, pie, treemap if added)
+Dashboard design principles (layout, color consistency, tooltips, filters/slicers)
+Storytelling with data for business decisions
+
+Future Enhancements (you can add later)
+
+Profit & margin analysis (if cost data added)
+Customer RFM segmentation
+Year-over-year comparison
+Geolocation insights (if city/state data available)
+Predictive trends using simple forecasting
+
 # E-Commerce Sales Performance Dashboard
 
 ![](https://github.com/Shital9090/Online_Shopping_Transactions/blob/main/Sales%20Performance%20%26%20Customer%20Insights.png)
