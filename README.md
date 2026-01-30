@@ -1,17 +1,18 @@
-Online_Shopping_Aanalysis
+**Advanced Online Shopping Transaction Analysis**
 
 ![](https://triprindia.com/cdn/shop/articles/shopping-online-federprivacy.jpg?v=1521026366)
 
-Project Overview 
-Project Name: Online_Shopping_Transactions
+**Project Overview** 
+Project Name: Online_Shopping_Analysis
 Domain: Business Intelligence / Data Analytics / E-Commerce
 Tools Used: Tableau , Excel (data cleaning & initial exploration)
-Dataset:
+
+**Dataset:**
 
 1,000 transaction records of an online shopping platform
 Key columns (inferred from your dashboards): Order ID, Order Date, Customer ID, Gender, Product Category (Beauty, Books, Clothing, Electronics, Home & Kitchen, Sports), Total Amount, Payment Mode (UPI, Credit Card, Debit Card, Net Banking, COD), Order Status (Delivered, Pending, Returned, Cancelled), and more.
 
-Project Objective
+**Project Objective**
 To transform raw 1,000-row e-commerce transaction data into actionable business intelligence through interactive dashboards, enabling stakeholders to:
 
 Understand sales performance by category, time, and trends
@@ -19,15 +20,17 @@ Analyze customer behavior, payment preferences, and gender-based spending patter
 Monitor operational health via order fulfillment and return rates
 Identify top customers and high-value segments for targeted marketing and retention
 
-Key Features & Dashboards Created
+**Key Features & Dashboards Created**
 
-Sales Performance & Customer Insights
+**Sales Performance & Customer Insights**
+
 Category-wise revenue breakdown (Sports and Beauty leading)
 Monthly sales trend (line chart) showing seasonal peaks (mid-year strong) and year-end dip
 Total revenue: ₹74.8M+ | Total orders: 1,000 | Unique customers: 947
 Helps spot top-performing categories and seasonal opportunities
 
-Order Fulfillment & Payment Behavior
+**Order Fulfillment & Payment Behavior**
+
 Order status distribution (~71% Delivered, ~15% Pending, ~6–10% Returned/Cancelled)
 Payment mode usage (UPI slightly leading, closely followed by cards & COD)
 Top 5 high-value customers by revenue
@@ -35,7 +38,7 @@ Average Order Value (AOV) by gender – Females show significantly higher AOV
 Reveals operational efficiency, preferred digital payments, and gender-based targeting potential
 
 
-Business Insights Delivered
+**Business Insights Delivered**
 
 Product Strategy: Prioritize Sports, Beauty, and Clothing; revive Electronics & Home & Kitchen in low months
 Marketing: Target female customers with higher AOV via personalized promotions
@@ -51,7 +54,7 @@ Interactive visualizations (bar, line, pie, treemap if added)
 Dashboard design principles (layout, color consistency, tooltips, filters/slicers)
 Storytelling with data for business decisions
 
-Future Enhancements (you can add later)
+**Future Enhancements** 
 
 Profit & margin analysis (if cost data added)
 Customer RFM segmentation
